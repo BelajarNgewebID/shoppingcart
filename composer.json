@@ -1,0 +1,19 @@
+{
+    "name": "bni/shoppingcart",
+    "description": "Shopping Cart Helper for your PHP Project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Belajar Ngeweb ID",
+            "email": "halo@belajarngeweb.id"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "BNI\\": "src\\Cart\\"
+        }
+    },
+    "require": {}
+}

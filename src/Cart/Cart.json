@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "New Cart",
+        "items": [
+            {
+                "id": 1,
+                "title": "sempak"
+            },
+            {
+                "id": 2,
+                "title": "laptop"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "updated name",
+        "items": [
+            {
+                "id": 1,
+                "title": "Kibot update",
+                "attributes": {
+                    "price": 125000
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "For delete purposes",
+        "items": []
+    }
+]
