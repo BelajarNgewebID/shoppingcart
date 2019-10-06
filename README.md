@@ -4,7 +4,7 @@ No worries about your online shop. Just use this to store temporary shopping car
 ## Installation
 ---
 ```
-composer require bni/cart
+composer require bni/shoppingcart
 ```
 
 ## Cart Usage
